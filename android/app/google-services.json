@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825432857634",
+    "project_id": "brown-lines-1b039",
+    "storage_bucket": "brown-lines-1b039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825432857634:android:0e7d81bca4bcca3c07be7b",
+        "android_client_info": {
+          "package_name": "com.example.brown_lines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdd8Far_1EcRhSCSVhCbifMls-cZLMzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
